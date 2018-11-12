@@ -16,6 +16,7 @@ int main()
 	};
 
 	cout << "람다 팩토리얼 테스트입니다." << endl;
+	cout << "gg";
 	cout << factorial(5) << endl;
 	
 
