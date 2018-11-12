@@ -19,7 +19,7 @@ int main()
 	cout << "gg";
 	cout << factorial(5) << endl;
 	
-
+	cout << "나는 동학입니다 ㅎㅎ" << endl;
     return 0;
 }
 
