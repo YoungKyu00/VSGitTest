@@ -22,6 +22,7 @@ int main()
 	cout << "나는 동학입니다 ㅎㅎ" << endl;
 
 	cout << "Test 2" << endl;
+	cout << "그전에 먼저 올립니다 ㅎㅎ" << endl;
 	cout << "영규가 올립니다.";
     return 0;
 }
