@@ -20,6 +20,7 @@ int main()
 	cout << factorial(5) << endl;
 	
 	cout << "나는 동학입니다 ㅎㅎ" << endl;
+	cout << "Test1" << endl;
     return 0;
 }
 
