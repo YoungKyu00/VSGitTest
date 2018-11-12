@@ -15,8 +15,9 @@ int main()
 		else return n * factorial(n - 1);
 	};
 
-
+	cout << "람다 팩토리얼 테스트입니다." << endl;
 	cout << factorial(5) << endl;
+	
 
     return 0;
 }
