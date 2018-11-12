@@ -24,6 +24,7 @@ int main()
 	cout << "Test 2" << endl;
 	cout << "그전에 먼저 올립니다 ㅎㅎ" << endl;
 	cout << "영규가 올립니다.";
+	cout << " 그전에 동학이가 먼저 올립니다 ㅎㅎ" << endl;
     return 0;
 }
 
